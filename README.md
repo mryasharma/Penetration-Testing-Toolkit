@@ -24,3 +24,7 @@ Tools & Technologies
 | `socket`     | Port scanning over TCP                |
 | `requests`   | Sending HTTP POST requests for login  |
 | `sys`        | Handling exit and exceptions          |
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/c4c380a3-1210-4ee7-b4f2-6861313e39fc)
+
